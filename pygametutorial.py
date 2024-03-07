@@ -9,7 +9,7 @@ WIDTH, HEIGTH = 800, 800
 SCREEN = pygame.display.set_mode((800, 800)) #Variable en mayus porque va a ser una constante
 
 #Titulo del programa
-pygame.display.set_caption("VIVA LA LIBERTAD CARAJO!")
+pygame.display.set_caption("VIVA LA LIBERTAD CARAJO!!!!!!!!!!")
 
 
 #Otro black canvas, pero pasandole una imagen
